@@ -207,27 +207,7 @@ For information on contributing to this project, please see the [contributing gu
 | Recipe Puppy | Food | No | No | [Go!](http://www.recipepuppy.com/about/api/) |
 | Yummly | Find food recipes | No | Yes | [Go!](https://developer.yummly.com/) |
 
-### Games & Comics
 
-| API | Description | Auth | HTTPS | Link |
-|---|---|---|---|---|
-| Battle.net | Blizzard Entertainment | No | Yes | [Go!](https://dev.battle.net/)  |
-| Chuck Norris Database | Jokes | No | No | [Go!](http://www.icndb.com/api/) |
-| Clash of Clans | Clash of Clans Game Information | No | Yes | [Go!](https://developer.clashofclans.com) |
-| Clash Royale | Clash Royale Game Information | No | Yes | [Go!](https://github.com/martincarrera/clash-royale-api)  |
-| Comic Vine | Comics | No | Yes | [Go!](https://comicvine.gamespot.com/api/documentation) |
-| Deck of Cards | Deck of Cards | No | No | [Go!](http://deckofcardsapi.com/)  |
-| Eve Online | Third-Party Developer Documentation | `OAuth` required for some parts | Yes | [Go!](https://eveonline-third-party-documentation.readthedocs.io/en/latest/) |
-| Giant Bomb | Video Games | No | Yes | [Go!](https://www.giantbomb.com/api/documentation) |
-| Guild Wars 2 | Guild Wars 2 Game Information | `apiKey` query string (for some routes) | Yes | [Go!](https://wiki.guildwars2.com/wiki/API:Main) |
-| Magic The Gathering | Magic The Gathering Game Information | No | No | [Go!](http://magicthegathering.io/) |
-| Marvel | Marvel Comics | No | No | [Go!](http://developer.marvel.com) |
-| Minecraft | Minecraft server info & user info) | No | Yes | [Go!](https://mcapi.ca/) |
-| Open Trivia | Trivia Questions | No | Yes | [Go!](https://opentdb.com/api_config.php) |
-| Pokéapi | Pokémon Information | No | No | [Go!](http://pokeapi.co) |
-| Riot Games | League of Legends Game Information | `apiKey` | Yes | [Go!](https://developer.riotgames.com/) |
-| Steam | Steam Client Interaction | `OAuth` | Yes | [Go!](https://developer.valvesoftware.com/wiki/Steam_Web_API) |
-| SWAPI | Star Wars Information | No | Yes | [Go!](https://swapi.co) |
 
 ### Geocoding
 
